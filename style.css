@@ -36,7 +36,7 @@ body{
 #keyboard{
 	height: 400px;
 	border-top: 2px solid gray;
-	background-color: #B2FFBB;
+	background-color: #60656b;
 }
 .operator, .number{
 	width: 50px;
@@ -47,8 +47,8 @@ body{
 	border-width: 0;
 	font-weight: bold;
 	font-size: 15px;
-	background-color: #FAFFB1;
-	
+	background-color: #3E4440;
+	color: white;
 }
 
 .equal{
@@ -72,11 +72,11 @@ body{
 
 button:nth-child(3),button:nth-child(7),button:nth-child(11),button:nth-child(15),button:nth-child(18){
 	font-size: 20px;
-	background-color:#FFDBAF;
+	background-color:#FF4460;
 	color: white;
 }
 button:nth-child(1){
 	font-size: 20px;
-	background-color:#FFB49A;
+	background-color:#FC9B3A;
 	color: white;
 }
